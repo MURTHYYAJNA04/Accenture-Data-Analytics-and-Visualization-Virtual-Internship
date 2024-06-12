@@ -1,4 +1,4 @@
-#Accenture-Data-Analytics-and-Visualization-Virtual-Internship
+# Accenture-Data-Analytics-and-Visualization-Virtual-Internship
 
 # Project Understanding:
 A data analyst sits between the business and the data.
