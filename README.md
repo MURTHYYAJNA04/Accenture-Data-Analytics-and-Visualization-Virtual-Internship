@@ -57,9 +57,7 @@ End result will be one spreadsheet
 - Top 5 categories
 - 
 ## Cleaned Data set:
-So, the cleaned data set after data modelling & data cleaning : Cleaned Dataset
-
-### (Cleaned Data set)[(https://github.com/MURTHYYAJNA04/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Final%20Table.xlsx)
+So, the cleaned data set after data modelling & data cleaning : [Cleaned Dataset](https://github.com/MURTHYYAJNA04/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Final%20Table.xlsx)
 
 # Task - 3
 ## Data Visualization and Storytelling:
@@ -70,7 +68,7 @@ Make the Powerpoint presentation as per the given template
 - Pie Chart
 - Bar Chart
   
-- Powerpoint Presentation : PPT
+- Powerpoint Presentation : [PPT](https://github.com/MURTHYYAJNA04/Accenture-Data-Analytics-and-Visualization-Virtual-Internship/blob/main/Data%20Analytics%20template%20-%20Task%203_final.pptx)
   
 # Task - 4
 ## Present to the Client:
